@@ -42,4 +42,15 @@ hcdsjcds kcklsdnv spodvk,ñlasdvpijòimkapsd´lvñ,ac as,d nkdsjvnmsoùbvnsl, ws
 |----------|:----------:|----------:|
 |Col 2 es|centrada|$500|
 |la col 3 es|Derecha|1500€|
+|la col 3 es|Derecha|4€|
+|Final|Hola|1500€|
+
+###### Exámen
+
+-[ ] Opción A
+
+-[x] Opción B
+
+-[ ] Opción C
+
 
