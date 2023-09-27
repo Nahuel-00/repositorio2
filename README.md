@@ -36,4 +36,5 @@ hcdsjcds kcklsdnv spodvk,ñlasdvpijòimkapsd´lvñ,ac as,d nkdsjvnmsoùbvnsl, ws
 ```
 [Link](https://srv.net.fje.edu/net2/#/lanet "Enlace a la web del cole")
 
-! [Imagen.jpg](https://github.com/Nahuel-00/repositorio2/blob/main/descarga.jpg "titulo opcional")
+![Imagen.jpg](https://github.com/Nahuel-00/repositorio2/blob/main/descarga.jpg "titulo opcional")
+
