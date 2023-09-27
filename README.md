@@ -38,3 +38,8 @@ hcdsjcds kcklsdnv spodvk,ñlasdvpijòimkapsd´lvñ,ac as,d nkdsjvnmsoùbvnsl, ws
 
 ![Imagen.jpg](https://github.com/Nahuel-00/repositorio2/blob/main/descarga.jpg "titulo opcional")
 
+|Titulo |Alineación | Precios|
+|----------|:----------:|----------:|
+|Col 2 es|centrada|$500|
+|la col 3 es|Derecha|1500€|
+
